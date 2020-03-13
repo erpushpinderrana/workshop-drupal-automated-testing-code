@@ -1,5 +1,6 @@
 *
 !*/
+!/.github/**
 !/.gitignore
 !/**/.gitkeep
 !/composer.json
