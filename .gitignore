@@ -6,6 +6,7 @@
 !/composer.lock
 !/docker-compose.yaml
 !/php.ini
+!/tools/**
 !/web/sites/default/settings.php
 !/web/sites/default/settings.symfony.php
 /vendor/

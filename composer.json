@@ -34,7 +34,7 @@
         "sort-packages": true
     },
     "scripts": {
-        "test:phpunit": "cd web && ../vendor/bin/phpunit -c core --verbose --testdox --stop-on-failure",
+        "test:phpunit": "phpunit -c tools/phpunit --verbose --testdox --stop-on-failure",
         "test": [
             "@test:phpunit"
         ]
