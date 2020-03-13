@@ -1,0 +1,11 @@
+*
+!*/
+!/.gitignore
+!/**/.gitkeep
+!/composer.json
+!/composer.lock
+!/docker-compose.yaml
+!/php.ini
+!/web/sites/default/settings.php
+!/web/sites/default/settings.symfony.php
+/vendor/
