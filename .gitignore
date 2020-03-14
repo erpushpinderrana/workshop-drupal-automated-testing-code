@@ -8,6 +8,7 @@
 !/docker-compose.yaml
 !/php.ini
 !/tools/**
+!/web/modules/custom/**
 !/web/sites/default/settings.php
 !/web/sites/default/settings.symfony.php
 /vendor/
